@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [IMC Ltd](https://imc.rw)
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **SEO Optimization**
 
 - 👨‍💻 All of my projects are available at [https://bikorimana.vercel.app](https://bikorimana.vercel.app)
 
-- 💬 Ask me about **Nodejs, React, and PHP**
+- 💬 Ask me about **Nodejs(Creating API), React, NextJs and PHP**
 
 - 📄 Know about my experiences [https://bikorimana.vercel.app/Resume'saveur.pdf](https://bikorimana.vercel.app/Resume'saveur.pdf)
 
