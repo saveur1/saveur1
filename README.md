@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/bikorimanax" target="blank"><img src="https://img.shields.io/twitter/follow/bikorimanax?logo=twitter&style=for-the-badge" alt="bikorimanax" /></a> </p>
 
-- 🔭 I’m currently working on [IMC Ltd](https://imc.rw)
-
 - 🌱 I’m currently learning **SEO Optimization**
 
 - 👨‍💻 All of my projects are available at [https://bikorimana.vercel.app](https://bikorimana.vercel.app)
